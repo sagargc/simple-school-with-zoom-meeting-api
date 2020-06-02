@@ -19,7 +19,7 @@
 - View Zoom Meeting (Live and Upcoming)
 
 # Limititaion
-- Teacher should be accessable only realtive subject's assignment
+- Teacher should be accessable only relative subject's assignment
 - Zoom Free Version has many restrictions, so couldn't cover like create user, create group and other.
 
 # Installation and use
