@@ -2,18 +2,18 @@
 
 
 # Features
-=> Three User Based Login (3 Seprate Dashboard) with Middlware
-=> Admin 
+# Three User Based Login (3 Seprate Dashboard) with Middlware
+# Admin 
 - Add Teacher
 - Add Student
 - Add Subject
 - Add Feedback or Update Detail
 - Zoom Meeting Creat/Update/Delete and Meeting End
-=> Teacher
+# Teacher
 - Veiw Assignment
 - Add Feedback and Approve
 - View Zoom Meeting (Live and Upcoming)
-=> Student
+# Student
 - Add Assignment 
 - Update and Veiw Assignment 
 - View Zoom Meeting (Live and Upcoming)
@@ -104,7 +104,7 @@ password: password\
 
 # Issues
 
-If you discover a security vulnerability within Simple School with Zoom API, please send an e-mail to (dreamsagar25@gmail.com).
+If you discover a issues within Simple School with Zoom API, please send an e-mail to (dreamsagar25@gmail.com).
 
 # License
 
