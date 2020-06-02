@@ -104,7 +104,7 @@ password: password\
 
 # Issues
 
-If you discover a security vulnerability within SMS, please send an e-mail to (dreamsagar25@gmail.com).
+If you discover a security vulnerability within Simple School with Zoom API, please send an e-mail to (dreamsagar25@gmail.com).
 
 # License
 
