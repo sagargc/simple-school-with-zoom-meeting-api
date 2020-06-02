@@ -20,7 +20,7 @@
 
 # Limititaion
 - Teacher should be accessable only realtive subject's assignment
-- Zoom Free Version has many restrictions, so could't cover like create user, create group and other.
+- Zoom Free Version has many restrictions, so couldn't cover like create user, create group and other.
 
 # Installation and use
 
