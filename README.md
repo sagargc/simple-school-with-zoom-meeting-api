@@ -2,7 +2,7 @@
 
 
 # Features
-# Three User Based Login (3 Seprate Dashboard) with Middlware
+# Three User Role Based Login with Middleware
 # Admin 
 - Add Teacher
 - Add Student
