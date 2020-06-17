@@ -90,16 +90,16 @@ $ php artisan serve
 ```
 
 **Demo(Admin)**\
-username: admin@gmail.com\
+username: admin@gmail.com
 password: password
 
 **Demo(Teacher)**\
-username: teacher@gmail.com\
-password: password\
+username: teacher@gmail.com
+password: password
 
 **Demo(Student)**\
-username: student@gmail.com\
-password: password\
+username: student@gmail.com
+password: password
 
 
 # Issues
