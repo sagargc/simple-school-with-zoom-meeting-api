@@ -8,7 +8,7 @@
 - Add Student
 - Add Subject
 - Add Feedback or Update Detail
-- Zoom Meeting Creat/Update/Delete and Meeting End
+- Zoom Meeting Create/Update/Delete and Meeting End
 # Teacher
 - Veiw Assignment
 - Add Feedback and Approve
