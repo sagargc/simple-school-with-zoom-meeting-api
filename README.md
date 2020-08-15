@@ -1,4 +1,4 @@
-# Simple School Admin, Teacher nas Studnet with laravel and PHP 7.
+# Simple School Admin, and nas Studnet with laravel and PHP 7.
 
 
 # Features
